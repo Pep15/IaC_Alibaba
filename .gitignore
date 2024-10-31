@@ -5,3 +5,4 @@ root@8.213.34.230
 terraform.tfstate
 terraform.tfstate.backup
 Variables.tf
+.DS_Store
