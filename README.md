@@ -19,3 +19,5 @@ This project demonstrates the use of **Infrastructure as Code (IaC)** to provisi
 ## GitHub Workflow:
 - **Automated Infrastructure Deployment:** Every change made to the IaC files triggers a GitHub Actions workflow that provisions or updates the Alibaba Cloud infrastructure automatically.
 - **Testing & Validation:** The infrastructure code is validated and tested to ensure that the resources are correctly configured and meet the desired specifications.
+
+![Tuwaiq Academy Logo](./images/logo-h.png)
